@@ -4,7 +4,7 @@ node_js: stable
 deploy:
   provider: pages
   skip-cleanup: true
-  github-token: ba6bcc55b47e0828397ff971730ca898cf95aced  # Set in travis-ci.org dashboard, marked secure
+  github-token: ${GITHUB_TOKEN}  # Set in travis-ci.org dashboard, marked secure
   local-dir: _book
   target-branch: gh-pages
   keep-history: false
