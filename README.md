@@ -1,6 +1,6 @@
 ### 前期准备
 
-1**､ 下载Gitbook Editor工具**
+**1､ 下载Gitbook Editor工具**
 
 官网上下载： [https://legacy.gitbook.com/editor](https://legacy.gitbook.com/editor)
 
@@ -8,7 +8,7 @@
 
 传化网盘上下载windows版 : [https://pan.etransfar.com/share/f095e850308419e324c6569b86](https://pan.etransfar.com/share/f095e850308419e324c6569b86)
 
-2**､ 下载git工具 \(只需windows下安装\)**
+**2､ 下载git工具 \(只需windows下安装\)**
 
 官网下载：[https://gitforwindows.org/](https://gitforwindows.org/)
 
