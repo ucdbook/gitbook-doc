@@ -6,6 +6,7 @@
   "keywords": [
     "gitbook"
   ],
+  "license": "MIT",
   "dependencies": {
     "gitbook-plugin-anchor-navigation-ex": "^1.0.13",
     "gitbook-plugin-expandable-chapters-small": "^0.1.7",
@@ -36,5 +37,5 @@
     "node": ">=8.x",
     "npm": ">=5.x"
   },
-  "homepage": "https://github.com/ucdbook/gitbook-doc#readme"
+  "homepage": "https://github.com/ucdbook/gitbook-doc"
 }
