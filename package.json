@@ -20,7 +20,8 @@
   },
   "scripts": {
     "init": "gitbook install",
-    "run": "gitbook serve"
+    "serve": "gitbook serve",
+    "build": "gitbook build"
   },
   "repository": {
     "type": "git",
