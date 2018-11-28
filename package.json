@@ -17,19 +17,20 @@
     "gitbook-plugin-tbfed-pagefooter": "0.0.1"
   },
   "devDependencies": {
-    "gitbook-cli": "^2.3.2"
+    "gitbook-cli": "^2.3.2",
+    "ebook-convert": "^2.0.1"
   },
   "scripts": {
     "init": "gitbook install",
     "serve": "gitbook serve",
-    "build": "gitbook build"
+    "build": "gitbook build",
+    "build-pdf": "gitbook pdf"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ucdbook/gitbook-doc.git"
   },
   "author": "ryan.bian",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ucdbook/gitbook-doc/issues"
   },
