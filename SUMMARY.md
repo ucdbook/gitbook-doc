@@ -1,6 +1,6 @@
 # Summary
 
-* [工具安装22](README.md)
+* [工具安装](README.md)
 * [Gitbook Editor使用](ru-men.md)
 * [Gitbook 构建](setup.md)
 * [测试文档目录](zzz.md)
